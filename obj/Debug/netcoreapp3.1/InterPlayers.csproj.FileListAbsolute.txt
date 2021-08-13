@@ -1,0 +1,13 @@
+D:\InterPlayers\obj\Debug\netcoreapp3.1\InterPlayers.csprojAssemblyReference.cache
+D:\InterPlayers\obj\Debug\netcoreapp3.1\InterPlayers.AssemblyInfoInputs.cache
+D:\InterPlayers\obj\Debug\netcoreapp3.1\InterPlayers.AssemblyInfo.cs
+D:\InterPlayers\obj\Debug\netcoreapp3.1\InterPlayers.csproj.CoreCompileInputs.cache
+D:\InterPlayers\bin\Debug\netcoreapp3.1\InterPlayers.exe
+D:\InterPlayers\bin\Debug\netcoreapp3.1\InterPlayers.deps.json
+D:\InterPlayers\bin\Debug\netcoreapp3.1\InterPlayers.runtimeconfig.json
+D:\InterPlayers\bin\Debug\netcoreapp3.1\InterPlayers.runtimeconfig.dev.json
+D:\InterPlayers\bin\Debug\netcoreapp3.1\InterPlayers.dll
+D:\InterPlayers\bin\Debug\netcoreapp3.1\InterPlayers.pdb
+D:\InterPlayers\obj\Debug\netcoreapp3.1\InterPlayers.dll
+D:\InterPlayers\obj\Debug\netcoreapp3.1\InterPlayers.pdb
+D:\InterPlayers\obj\Debug\netcoreapp3.1\InterPlayers.genruntimeconfig.cache
